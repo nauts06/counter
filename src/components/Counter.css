@@ -1,0 +1,22 @@
+.box{
+    width: 200px;
+    background-color:pink;
+    text-align: center;
+    margin-left: 40%;
+    border: solid 4px white;
+    margin-top: 10%;
+}
+.box>button{
+    padding: 4%;
+    background-color: white;
+    gap: 1%;
+}
+body{
+    background-color: palevioletred;
+}
+.red{
+    color: red;
+}
+.green{
+    color: green;
+}
